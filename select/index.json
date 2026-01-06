@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lovey-Dovey",
+  "base_artist": "平井 大",
+  "createdAt": "2026-01-06T06:48:28.142856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "The Bird and the Bee",
+      "has_synced": true,
+      "path": "select/01_Lovey_Dovey_The_Bird_and_the_Bee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Otis Redding & Carla Thomas",
+      "has_synced": false,
+      "path": "select/02_Lovey_Dovey_Otis_Redding_&_Carla_Thomas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovey Dovey Kinda Lovin'",
+      "artist": "Brenton Wood",
+      "has_synced": false,
+      "path": "select/03_Lovey_Dovey_Kinda_Lovin'_Brenton_Wood.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lovey-Dovey",
+      "artist": "T-ARA",
+      "has_synced": true,
+      "path": "select/04_Lovey-Dovey_T-ARA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Split Enz",
+      "has_synced": false,
+      "path": "select/05_Lovey_Dovey_Split_Enz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Otis Redding (With Carla Thomas)",
+      "has_synced": false,
+      "path": "select/06_Lovey_Dovey_Otis_Redding_(With_Carla_Thomas).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Local H",
+      "has_synced": false,
+      "path": "select/07_Lovey_Dovey_Local_H.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovey Dovey (long version)",
+      "artist": "Tony Terry",
+      "has_synced": false,
+      "path": "select/08_Lovey_Dovey_(long_version)_Tony_Terry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/09_Lovey_Dovey_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovey-Dovey",
+      "artist": "티아라",
+      "has_synced": false,
+      "path": "select/10_Lovey-Dovey_티아라.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Local H",
+      "has_synced": true,
+      "path": "select/11_Lovey_Dovey_Local_H.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "Buddy Knox",
+      "has_synced": false,
+      "path": "select/12_Lovey_Dovey_Buddy_Knox.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lovey Dovey / You're So Fine",
+      "artist": "Bunny Sigler",
+      "has_synced": false,
+      "path": "select/13_Lovey_Dovey___You're_So_Fine_Bunny_Sigler.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lovey Dovey",
+      "artist": "The Clovers",
+      "has_synced": false,
+      "path": "select/14_Lovey_Dovey_The_Clovers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovey-Dovey (feat. ALEXXX)",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_Lovey-Dovey_(feat._ALEXXX)_平井大.txt"
+    }
+  ]
+}
